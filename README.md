@@ -5,7 +5,18 @@ Welcome to my **Machine Learning Portfolio**, showcasing projects that integrate
 
 ## 🚀 Projects
 
-### [1️⃣ Iris Data Deployment with Flask and HTML/CSS](https://github.com/iseptianto/deploy-iris)
+### [1️⃣ Prediction of Brain Tumor with CNN](https://github.com/iseptianto/prediction-of-brain-tumor-with-cnn)
+- **Description**: Uses **Convolutional Neural Networks (CNNs)** to classify brain tumor images and predict tumor presence.
+- **Tech Stack**: Python, TensorFlow/Keras, OpenCV, Scikit-learn, Flask.
+- **Features**:
+  - Deep learning model trained to detect **brain tumors**.
+  - Data preprocessing techniques including **image augmentation**.
+  - Model saving in both **H5 (`.h5`)** and **Pickle (`.pkl`)** formats.
+  - Web-based deployment for predictions.
+
+---
+
+### [2️⃣ Iris Data Deployment with Flask and HTML/CSS](https://github.com/iseptianto/deploy-iris)
 - **Description**: A web application that classifies **Iris flower species** using machine learning.
 - **Tech Stack**: Flask, HTML/CSS, Scikit-learn, NumPy, Pandas.
 - **Features**:
@@ -15,7 +26,7 @@ Welcome to my **Machine Learning Portfolio**, showcasing projects that integrate
 
 ---
 
-### [2️⃣ Waiter Tips Prediction with Machine Learning](https://github.com/iseptianto/Waiter-Tips-Prediction-with-Machine-Learning)
+### [3️⃣ Waiter Tips Prediction with Machine Learning](https://github.com/iseptianto/Waiter-Tips-Prediction-with-Machine-Learning)
 - **Description**: Predicts tip amounts based on bill total, customer demographics, and dining behavior.
 - **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib, Flask/Streamlit.
 - **Features**:
@@ -25,7 +36,7 @@ Welcome to my **Machine Learning Portfolio**, showcasing projects that integrate
 
 ---
 
-### [3️⃣ Future Sales Prediction with Machine Learning](https://github.com/iseptianto/Future-Sales-Prediction-With-ML)
+### [4️⃣ Future Sales Prediction with Machine Learning](https://github.com/iseptianto/Future-Sales-Prediction-With-ML)
 - **Description**: Forecasts future sales based on **TV, Newspaper, and Radio** advertising spend.
 - **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib, Flask.
 - **Features**:
